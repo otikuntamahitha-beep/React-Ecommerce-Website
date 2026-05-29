@@ -1,16 +1,64 @@
-# React + Vite
+# React Ecommerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+A responsive ecommerce web application developed using React.js. The application provides a modern shopping experience with product browsing, product details, and shopping cart functionality.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+* Product listing and browsing
+* Product details page
+* Shopping cart functionality
+* Responsive user interface
+* Component-based architecture
+* Modern frontend design
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies Used
 
-## Expanding the ESLint configuration
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Project Structure
+
+* App.jsx
+* App.css
+* main.jsx
+* index.css
+* firebase.js
+* package.json
+* vite.config.js
+
+## Installation
+
+1. Clone the repository
+
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+3. Start the development server:
+
+```bash
+npm run dev
+```
+
+## Learning Outcomes
+
+* React component development
+* State management
+* Frontend application structure
+* Responsive web design
+* Modern JavaScript development
+
+## Future Enhancements
+
+* User authentication
+* Payment gateway integration
+* Product search and filtering
+* Order management system
+* Backend API integration
